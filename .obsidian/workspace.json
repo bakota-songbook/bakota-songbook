@@ -11,10 +11,14 @@
             "id": "6400143e76974fc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Антитіла/Лови момент.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нова вкладка"
+              "title": "Лови момент"
             }
           }
         ]
@@ -175,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95829fb0d28fb98c",
+  "active": "6400143e76974fc3",
   "lastOpenFiles": [
-    "Ан",
     "Один в каное/Реквієм.md",
+    "Антитіла/Лови момент.md",
+    "Антитіла",
     "Один в каное"
   ]
 }
